@@ -21,13 +21,18 @@ DDAI.Network 是一个专注于去中心化人工智能（Decentralized AI）的
 # DDAI Bot 脚本食用说明
 ## 自动注册部分
 ``cfcookies.txt`` cf盾代码，一般不用修改
+
 ``domains.txt`` 邮箱域名
+
 ``refcodes.txt`` 邀请码
+
 ``reg.txt`` 注册成功系统自动生成
 
 ## 脚本挂机部分
 ``accounts.json``账户信息
+
 ``proxy.txt`` 代理信息
+
 ``proxy_config.json``代理池配置
 
 
